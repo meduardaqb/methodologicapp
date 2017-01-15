@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MethodologicApp</string>
+    <string name="city_activity_label">Cidades próximas ao ponto</string>
+    <string name="city_detail_activity_label">Detalhes da cidade</string>
+    <string name="google_maps_key">AIzaSyATR6hyBC9qgX1uqjI25e5_a1qqJ16I8FM</string>
+    <string name="open_weather_map_appid">9fd05fea08bcda56ad0cfc26fec2ad68</string>
+    <string name="inlocomedia_app_id">66b18e6ef399afc86c59efc9a8b600fcff7d6cd882568984ae237c284b7f6591</string>
+    <string name="interstitial_ad_id">432ef63a7e213a8fcb7213dcd5e4a50fdc0b53f4e5079ede575b7ebf55cd49b6</string>
+    <string name="development_device_key">5D8DD27264A7E8ACBADF1A51605FF64</string>
+    <string name="cancel">Cancelar</string>
+    <string name="yes">Sim</string>
+    <string name="search">Buscar</string>
+    <string name="name">Nome</string>
+    <string name="description">Descrição</string>
+    <string name="temp_min">Temperatura mínima (celsius)</string>
+    <string name="temp_max">Temperatura máxima (celsius)</string>
+    <string name="cities_near_text">Lista das 15 cidades próximas ao ponto escolhido</string>
+    <string name="no_network_connection_message">Você precisa ter conexão com a internet para utilizar o MethodologicApp.</string>
+    <string name="request_error_message">Pareceu que ocorreu algum erro ao buscar as cidades. Por favor, tente novamente.</string>
+</resources>
